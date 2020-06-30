@@ -1,0 +1,90 @@
+﻿1.Adaptive Control and Tuning:
+
+testfc/英文论文测试数据集/test_2_1.txt   testfc/英文论文测试数据集/test_2_18.txt   testfc/英文论文测试数据集/test_2_19.txt   
+testfc/英文论文测试数据集/test_2_2.txt   testfc/英文论文测试数据集/test_2_21.txt   testfc/英文论文测试数据集/test_2_22.txt   
+testfc/英文论文测试数据集/test_2_30.txt   testfc/英文论文测试数据集/test_2_31.txt   testfc/英文论文测试数据集/test_2_36.txt   
+testfc/英文论文测试数据集/test_2_4.txt   testfc/英文论文测试数据集/test_2_48.txt   testfc/英文论文测试数据集/test_2_49.txt   
+testfc/英文论文测试数据集/test_2_5.txt   testfc/英文论文测试数据集/test_2_50.txt   testfc/英文论文测试数据集/test_2_58.txt   
+testfc/英文论文测试数据集/test_2_64.txt   testfc/英文论文测试数据集/test_2_65.txt   testfc/英文论文测试数据集/test_2_70.txt   
+testfc/英文论文测试数据集/test_2_74.txt   testfc/英文论文测试数据集/test_2_78.txt   testfc/英文论文测试数据集/test_2_83.txt   
+testfc/英文论文测试数据集/test_2_93.txt   
+
+
+
+
+
+2.Nonlinear Control:
+
+testfc/英文论文测试数据集/test_2_10.txt   testfc/英文论文测试数据集/test_2_11.txt   testfc/英文论文测试数据集/test_2_12.txt   
+testfc/英文论文测试数据集/test_2_13.txt   testfc/英文论文测试数据集/test_2_23.txt   testfc/英文论文测试数据集/test_2_25.txt   
+testfc/英文论文测试数据集/test_2_40.txt   testfc/英文论文测试数据集/test_2_41.txt   testfc/英文论文测试数据集/test_2_42.txt   
+testfc/英文论文测试数据集/test_2_46.txt   testfc/英文论文测试数据集/test_2_55.txt   testfc/英文论文测试数据集/test_2_62.txt   
+testfc/英文论文测试数据集/test_2_63.txt   testfc/英文论文测试数据集/test_2_66.txt   testfc/英文论文测试数据集/test_2_84.txt   
+testfc/英文论文测试数据集/test_2_9.txt   testfc/英文论文测试数据集/test_2_92.txt   
+
+
+
+
+
+3.Estimation, Identification, and Stochastic Systems:
+
+testfc/英文论文测试数据集/test_2_100.txt   testfc/英文论文测试数据集/test_2_3.txt   testfc/英文论文测试数据集/test_2_38.txt   
+testfc/英文论文测试数据集/test_2_6.txt   testfc/英文论文测试数据集/test_2_61.txt   testfc/英文论文测试数据集/test_2_76.txt   
+testfc/英文论文测试数据集/test_2_86.txt   testfc/英文论文测试数据集/test_2_87.txt   testfc/英文论文测试数据集/test_2_88.txt   
+testfc/英文论文测试数据集/test_2_89.txt   testfc/英文论文测试数据集/test_2_90.txt   testfc/英文论文测试数据集/test_2_91.txt   
+testfc/英文论文测试数据集/test_2_94.txt   testfc/英文论文测试数据集/test_2_95.txt   testfc/英文论文测试数据集/test_2_96.txt   
+testfc/英文论文测试数据集/test_2_97.txt   testfc/英文论文测试数据集/test_2_98.txt   testfc/英文论文测试数据集/test_2_99.txt   
+
+
+
+
+
+4.PID Control:
+
+testfc/英文论文测试数据集/test_2_14.txt   testfc/英文论文测试数据集/test_2_15.txt   testfc/英文论文测试数据集/test_2_16.txt   
+testfc/英文论文测试数据集/test_2_17.txt   testfc/英文论文测试数据集/test_2_45.txt   
+
+
+
+
+
+5.Optimal Control and Optimization:
+
+testfc/英文论文测试数据集/test_2_20.txt   testfc/英文论文测试数据集/test_2_39.txt   testfc/英文论文测试数据集/test_2_52.txt   
+testfc/英文论文测试数据集/test_2_60.txt   testfc/英文论文测试数据集/test_2_73.txt   testfc/英文论文测试数据集/test_2_79.txt   
+testfc/英文论文测试数据集/test_2_80.txt   
+
+
+
+
+
+6.Complex Systems and Networks:
+
+testfc/英文论文测试数据集/test_2_24.txt   testfc/英文论文测试数据集/test_2_26.txt   testfc/英文论文测试数据集/test_2_27.txt   
+testfc/英文论文测试数据集/test_2_28.txt   testfc/英文论文测试数据集/test_2_29.txt   testfc/英文论文测试数据集/test_2_43.txt   
+testfc/英文论文测试数据集/test_2_44.txt   testfc/英文论文测试数据集/test_2_47.txt   testfc/英文论文测试数据集/test_2_53.txt   
+testfc/英文论文测试数据集/test_2_54.txt   testfc/英文论文测试数据集/test_2_56.txt   testfc/英文论文测试数据集/test_2_57.txt   
+testfc/英文论文测试数据集/test_2_59.txt   testfc/英文论文测试数据集/test_2_67.txt   testfc/英文论文测试数据集/test_2_68.txt   
+testfc/英文论文测试数据集/test_2_7.txt   testfc/英文论文测试数据集/test_2_75.txt   testfc/英文论文测试数据集/test_2_8.txt   
+testfc/英文论文测试数据集/test_2_85.txt   
+
+
+
+
+
+7.Robotics and Motion Control:
+
+testfc/英文论文测试数据集/test_2_32.txt   testfc/英文论文测试数据集/test_2_33.txt   testfc/英文论文测试数据集/test_2_34.txt   
+testfc/英文论文测试数据集/test_2_35.txt   testfc/英文论文测试数据集/test_2_37.txt   testfc/英文论文测试数据集/test_2_51.txt   
+testfc/英文论文测试数据集/test_2_69.txt   testfc/英文论文测试数据集/test_2_71.txt   testfc/英文论文测试数据集/test_2_77.txt   
+testfc/英文论文测试数据集/test_2_81.txt   testfc/英文论文测试数据集/test_2_82.txt
+
+   
+
+
+
+8.Aerospace:
+
+testfc/英文论文测试数据集/test_2_72.txt   
+
+
